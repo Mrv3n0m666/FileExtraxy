@@ -36,7 +36,7 @@ cd FileExtracxy
 ```
 2. Run the script:
 ```
-python file_extracxy.py
+python FileExtraxy.py
 ```
 3. **The program will ask for:**
    - **Input file** (a JSON file containing the URLs)
