@@ -1,5 +1,5 @@
 
-# **FileExtracxy: Domain JSON File Extract Tool**
+# **FileExtracxy:Extract Domain JSON File  Tool**
 
 
 **FileExtracxy** 
@@ -45,7 +45,8 @@ python FileExtraxy.py
 
 ✅ The extracted results will be **appended** to the specified output file without overwriting.
 
-![FileExtracxy Screenshot](https://ibb.co.com/3541HVQW)
+![scapter](https://github.com/user-attachments/assets/332ebe36-f377-45a0-95ff-3664f146b436)
+
 
 ## Disclaimer
 
